@@ -71,6 +71,7 @@ Para todas as questões, compile-as com o gcc e execute-as via terminal.
 	$ Argumentos: Eu Mesmo e Minha Pessoa
 	$
 
+
 8. Crie uma função que retorna a quantidade de caracteres em uma string, usando o seguinte protótipo:
 
 	int Num_Caracs(char *string);
